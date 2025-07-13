@@ -1,5 +1,5 @@
 # Judul Project
-Analisis Kinerja Penjualan Cokelat
+Sales Performance Analysis of Chocolate
 
 
 ## Repository Outline
