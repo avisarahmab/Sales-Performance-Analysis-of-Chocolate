@@ -32,4 +32,4 @@ Menggunakan library pandas, numpy, scipy, matplotlib, dan  plotly.
 
 ## Reference
 link URL Dashboard:
-https://public.tableau.com/views/Milestone1_Avisa/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Analysischocolate/Main?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
